@@ -112,3 +112,13 @@ To run this project, follow these steps:
 ## Conclusion
 
 This project provides a comprehensive analysis of various machine learning and deep learning models for classifying images from the Fashion MNIST dataset. The results show that complex models like CNN+RNN and fine-tuned MobileNetV2 achieve the highest accuracy. Additionally, the project employs several visualization techniques to gain a deeper understanding of the models' performance and identify areas for improvement. The findings can be valuable for selecting suitable models for similar image classification tasks and understanding the factors influencing model performance.
+
+## Conclusion
+
+I am **Himanshu Rajak**, an enthusiastic learner exploring the fields of **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I have a keen interest in research, particularly in **Large Language Models (LLMs)**, **Generative AI**, and **Quantum Computing**. If you share similar interests or would like to connect, feel free to reach out!
+
+- **LinkedIn**: [Himanshu Rajak](https://www.linkedin.com/in/himanshu-rajak-22b98221b/)
+- **Medium**: [Himanshu Rajak](https://himanshusurendrarajak.medium.com/)
+
+Let's collaborate and innovate together!
+
