@@ -1,4 +1,4 @@
-# Fashion MNIST Classification
+# FashionClasstic:Benchmarking FashionMNIST Classifiers
 
 ## Overview
 
